@@ -1,6 +1,6 @@
 # Libft (42common-core)
 
-## Actual Status: Finished (100%)
+## Actual Status: Finished (125%)
 
 ### Functions from `<ctype.h>` Library
 
